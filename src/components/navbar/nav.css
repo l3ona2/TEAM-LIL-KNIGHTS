@@ -1,0 +1,15 @@
+.me-auto{
+    display: flex;
+    align-content: flex-end;
+}
+#van{
+    margin: 0px;
+    background-color:#B3E5BE;
+    padding: 4px;
+    box-shadow: 2px 2px 8px gray;
+    color: #804674;
+}
+.nl{
+    text-decoration: none;
+    color: #804674;
+}

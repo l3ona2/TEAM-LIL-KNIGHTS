@@ -1,0 +1,18 @@
+.box{
+    background-color: #B3E5BE;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    position: fixed;
+    bottom: 0;
+    box-shadow: 2px 2px 8px gray;
+    padding: 20px;
+    color: #804674;
+}
+.as{
+    color: #804674;
+    text-decoration: none;
+}
+li{
+    text-decoration: none;
+}

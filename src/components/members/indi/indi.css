@@ -1,0 +1,15 @@
+.individual{
+    width: 15%;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    text-align: center;
+    background-color: #A86464;
+    margin: 5rem;
+    padding: 5px;
+    border-radius: 10%;
+    border-style: dashed;
+    border-width: 5px;
+    border-color: #804674;
+}

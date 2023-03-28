@@ -1,0 +1,11 @@
+.bo{
+    border: 1rem;
+    border-color: darkgray;
+    background-color: #ffffff;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    margin: 10%;
+ 
+    padding: 80px;
+  }
+
+  
